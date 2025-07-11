@@ -27,8 +27,28 @@
         "company": "samsung"
     },
      {
+        "name": "watch11",
+        "price": 308,
+        "company": "apple"
+    },
+    {
+        "name": "watchok",
+        "price": 404,
+        "company": "apple"
+    },
+    {
         "name": "watch10",
         "price": 304,
+        "company": "apple"
+    },
+    {
+        "name": "applewatch",
+        "price": 500,
+        "company": "apple"
+    },
+    {
+        "name": "smartwatch",
+        "price": 904,
         "company": "apple"
     },
     {
